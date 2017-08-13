@@ -1,5 +1,7 @@
 # steam-donation-bot
 
+This is probably the most basic bot you can ever get. The bot accepts all trade offers except when the bot gives items.
+
 ## How to set it up:
 
 ###### Make sure you have [node.js](http://destyy.com/q11WUe) installed
