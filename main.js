@@ -37,7 +37,7 @@ client.on('webSession', (sessionid, cookies) => {
 	manager.setCookies(cookies);
 
 	community.setCookies(cookies);
-	community.startConfirmationChecker(10000, 'N3jOWNZ00Y+ZFQX7HnQ2VZnKp6g=');
+	community.startConfirmationChecker(10000, 'identitysecret');
 });
 
 manager.on('newOffer', (offer) => {
